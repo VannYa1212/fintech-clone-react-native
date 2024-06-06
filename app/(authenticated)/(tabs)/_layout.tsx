@@ -42,7 +42,7 @@ const Layout = () => {
       />
       <Tabs.Screen
         name="invest"
-        options={{
+        options={{ 
           title: 'Invest',
           tabBarIcon: ({ size, color }) => (
             <FontAwesome name="line-chart" size={size} color={color} />
